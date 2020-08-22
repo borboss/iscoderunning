@@ -1,6 +1,6 @@
 {
   "name": "is-code-running",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "to check if your code is running",
   "main": "index.js",
   "repository": {
@@ -17,6 +17,6 @@
   "keywords": [
     "code", "badoop", "isrunning", "stopcode", "stop", "close", "force", "startcode", "start", "open"
   ],
-  "author": "",
+  "author": "borboss",
   "license": "ISC"
 }
