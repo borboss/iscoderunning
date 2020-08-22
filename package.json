@@ -1,0 +1,23 @@
+{
+  "name": "is-code-running",
+  "version": "1.0.0",
+  "description": "to check if your code is running",
+  "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbaross/iscoderunning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bobbaross/iscoderunning/"
+  },
+  "homepage": "https://github.com/bobbaross/iscoderunning#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "",
+  "license": "ISC"
+}
