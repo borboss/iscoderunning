@@ -2,7 +2,7 @@ is-code-running
 ----------
 Required to check if your code is running/working. Useful to also crash your process.
 
-Insatlling/Requiring
+Installing/Requiring
 --------------------
 ```
 npm install iscoderunning
