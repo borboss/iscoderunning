@@ -57,5 +57,4 @@ coderun.log(log)
 ```
 Contact
 ----------
-Please contact me on discord if there are any urgent bugs.
-(borboss#7877)
+This project is no longer being actively maintained. Please fork/recreate this project if you need it.
