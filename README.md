@@ -35,9 +35,19 @@ Let your code run:
 ```
 const coderun = require("iscoderunning");
 coderun.startCode()
-// => "I have allowed your code to continue!"
+// => "Your code has started!"
 // whatever
 ``` 
+Pause and unpause your code:
+```
+const coderun = require("iscoderunning");
+// whatever
+coderun.pauseCode()
+// => "I paused your code, auto continuing now...!"
+// whatever
+coderun.continueCode()
+// => "Code continuing!"
+```
 Start the code and then end it:
 ```
 const coderun = require("iscoderunning");
