@@ -8,7 +8,15 @@ exports.stopCode = () => {
 }
 
 exports.startCode = () => {
-    console.log('I have allowed your code to continue!')
+    console.log('Your code has started!')
+} 
+
+exports.continueCode = () => {
+    console.log('Code continuing!')
+} 
+
+exports.pauseCode = () => {
+    console.log('I paused your code, auto continuing now...!')
 } 
 
 exports.log = (log) => {
